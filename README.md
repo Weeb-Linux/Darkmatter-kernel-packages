@@ -11,7 +11,9 @@ Here are the Kernel and codenames that are in construction.
 (and many more to come).
 
 There will be a special version that I made for a specific devices like :
+
  -gpd1 (for GPD Win 1)
+ 
  -ipts (for Microsoft Surface devices)
  
 
