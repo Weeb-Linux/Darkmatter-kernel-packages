@@ -1,5 +1,6 @@
 # Darkmatter-kernel-packages
 A place for .glp packages of PhoenixOS Darkmatter kernel. Check it out in Releases tab up there.
+New repo and maybe I'm gonna upload here, for old releases you can find in : https://github.com/hmtheboy154/Darkmatter-kernel-packages/releases
 
 Here are the Kernel and codenames that are in construction.
 
