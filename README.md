@@ -8,7 +8,6 @@ Here are the Kernel and codenames that are in construction.
 2. Kernel 4.19.x  -   codename : benares
 3. Kernel 5.x     -   codename : sakura
 
-
 (and many more to come).
 
 There will be a special version that I made for a specific devices like :
