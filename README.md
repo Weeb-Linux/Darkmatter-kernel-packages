@@ -4,7 +4,7 @@ New release and kernel repo maybe I'm gonna upload here, for old releases you ca
 
 Here are the Kernel and codenames that are in construction.
 
-1. Kernel 4.9.x   -   codename : chriot
+1. Kernel 4.9.x   -   codename : chariot
 1. Kernel 4.14.x  -   codename : comet
 2. Kernel 4.19.x  -   codename : benares
 3. Kernel 5.x     -   codename : sakura
